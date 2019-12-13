@@ -1,5 +1,7 @@
 # Map to app 
 
+[bit.ly/sgcmap2app](http://bit.ly/sgcmap2app)
+
 ## Find a map
 
 1. Go to [https://www.davidrumsey.com/](https://www.davidrumsey.com/) and enter "[Northern Pacific Railroad](https://www.davidrumsey.com/luna/servlet/view/search?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&q=Northern+Pacific+Railroad&search=Go)" as your search term.
