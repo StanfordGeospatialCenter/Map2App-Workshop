@@ -70,4 +70,6 @@ into the **URL:** textbox
 
 Now you know how to make a map of anything, with nothing but your Google account. Next time you have a report to do, make a better version of this and your teacher will love you. Moneyback guarantee.
 
+Bonus: Since we've been looking at rail maps, check out this interactive map that shows travel times across teh continent, before and after, the creation of the transcontinental rail system. [Travel Times before and after the Railroads](http://mdweaver.github.io/times_year/)
+
  
