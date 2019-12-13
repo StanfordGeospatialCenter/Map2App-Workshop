@@ -26,7 +26,8 @@ https://maps.georeferencer.com/georeferences/25abc5b1-16b4-590e-bec9-024800f1e29
 into the **URL:** textbox
 5. Click on the **Get Layers** button, then click on **Add Layer**
 6. Wait for the image to load.
-![](./images/WMTS.png)
+![](./images/WMTS.png)  
+
 7. Zoom and pan around the map
 8. Click on the "Find My Location" tool (it's right under the zoom tools), or zoom to the Stanford area. 
 9. Click on **Add>Add Map Notes**, then click **Create** with the default settings.
@@ -41,5 +42,9 @@ into the **URL:** textbox
 | Image Link URL: | https://www.stanford.edu/                                                                                                                                                                       |
 
 12 Click close, then click the "**Edit**" button to close the MapNotes panel.   
-13. 
+13. Click on your MapNote pin to see the result
+
+## Embed a map
+
+1. 
  
