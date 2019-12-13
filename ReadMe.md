@@ -46,5 +46,19 @@ into the **URL:** textbox
 
 ## Embed a map
 
-1. 
+### 
+1. Click on the **Save button** and fill out the fields for **Name** and **Tags**, then **Save Map**. 
+2. Click on the **Share** button and **check** the box to share with **Everyone** 
+3. Click on the **Embed in Website** button and look at the options.
+4. Change **Width** to '**800**' 
+5. Add some other stuff, if you want to. Don't use the **Dark Theme**, it is terrible.
+6. Click on the **Copy** button to copy your **Embed Code**.
+
+1. Go to [https://sites.google.com/new](https://sites.google.com/new) and sign in with your Google account credentials, if needed. 
+2. Click on the **+** at the bottom right corner of the page.
+3. Change the **Title** to something Earth-shatteringly brilliant, like "**My Map Page**"
+4. Click on the **EMBED** tool, in the "**Insert**" toolbox on the right.
+5. Switch to the **Embed Code** tab in the resulting window and **paste** the **Embed** code into the the textbox. Click **Next**, and **Insert**.
+6. **Resize** the **Embed Box** to fit the page
+7. Click on the **Preview** Tool, at the top of the page (it looks like a laptop and cellphone chilling together).
  
