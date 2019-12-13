@@ -60,7 +60,8 @@ into the **URL:** textbox
 3. Change the **Title** to something Earth-shatteringly brilliant, like "**My Map Page**"
 4. Click on the **EMBED** tool, in the "**Insert**" toolbox on the right.
 5. Switch to the **Embed Code** tab in the resulting window and **paste** the **Embed** code into the the textbox. Click **Next**, and **Insert**.
-6. **Resize** the **Embed Box** to fit the page
+6. **Resize** the **Embed Box** to fit the page.
+7. You can add a textbox and use some text from [This Page](https://www.stanford.edu/about/history/) to fill it (just cut & Paste)
 7. Click on the **Preview** Tool, at the top of the page (it looks like a laptop and cellphone chilling together).
 8. Behold the awesomeness of your website with a map in it.  
 
