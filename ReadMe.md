@@ -77,3 +77,5 @@ Here's where you can learn more about using ArcGIS.com: [Learn.ArcGIS.com](https
 Here is a page that explains how Web Maps work: [https://mapschool.io/](https://mapschool.io/)
 
 Here is David's page with LOTS of examples of more Web Maps: [https://sites.google.com/site/sgccart/](https://sites.google.com/site/sgccart/)
+
+The Jello Map: [http://elasticterrain.xyz/#map-mediterranean](http://elasticterrain.xyz/#map-mediterranean)
