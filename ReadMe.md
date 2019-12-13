@@ -31,7 +31,15 @@ into the **URL:** textbox
 8. Click on the "Find My Location" tool (it's right under the zoom tools), or zoom to the Stanford area. 
 9. Click on **Add>Add Map Notes**, then click **Create** with the default settings.
 10. Use the **Stickpin** template to create a note where Stanford should be.
-11. FIll in the editor as follows:
+11. Fill in the editor as follows:
 
+|                 | **Content**                                                                                                                                                                                     |
+|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|          Title: | Leland Stanford Jr. University                                                                                                                                                                  |
+|    Description: | The Leland Stanford Junior University was founded in 1885 by California Senator Leland Stanford and his wife, Jane, in memory of their only child, Leland Jr., who died of typhoid fever at 15. |
+|      Image URL: | https://www-media.stanford.edu/wp-content/uploads/2017/03/09163847/about-stanford-4-1499x938.jpg                                                                                                |
+| Image Link URL: | https://www.stanford.edu/                                                                                                                                                                       |
 
-
+12 Click close, then click the "**Edit**" button to close the MapNotes panel.   
+13. 
+ 
