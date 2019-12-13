@@ -72,4 +72,8 @@ Now you know how to make a map of anything, with nothing but your Google account
 
 Bonus: Since we've been looking at rail maps, check out this interactive map that shows travel times across teh continent, before and after, the creation of the transcontinental rail system. [Travel Times before and after the Railroads](http://mdweaver.github.io/times_year/)
 
- 
+Here's where you can learn more about using ArcGIS.com: [Learn.ArcGIS.com](https://learn.arcgis.com/en/gallery/#?p=agol)
+
+Here is a page that explains how Web Maps work: [https://mapschool.io/](https://mapschool.io/)
+
+Here is David's page with LOTS of examples of more Web Maps: [https://sites.google.com/site/sgccart/](https://sites.google.com/site/sgccart/)
